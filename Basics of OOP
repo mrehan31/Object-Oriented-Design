@@ -1,0 +1,22 @@
+Difference between object and class
+
+Object: Object represent real world entity
+
+Class: Class is a prototype or blueprint of the object. It is a template or definitions of attribute and methods
+
+For example in an online shopping system, the customer class will have attributes like shipping address, credit card no etc and methods to place and cancel the order.
+
+Four principles of OOD are
+
+Encapsulation
+Abstraction
+Inheritance 
+Polymorphism
+
+Encapsulation: The mechanism to bind the attributes of an object together and make it not accessible to the rest of the world. Encapsulation is achieved by making the attribute of an object private such that other objects cannot access them directly. However, these private attributes may be accessed through the object’s public methods.
+
+Abstraction: It means hiding all but the relevant data to reduce the system’s complexity.
+
+Inheritance: It is a way to create new classes that can inherit from existing classes.
+
+Polymorphism: Ability of an object to take many forms depending on the context. 
